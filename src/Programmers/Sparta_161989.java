@@ -1,6 +1,6 @@
-package LV_1;
+package Programmers;
 
-public class LV1_161989 {
+public class Sparta_161989 {
     public int lv1_161989(int n, int m, int[] section) {
 
     int answer = 1;

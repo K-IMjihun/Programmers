@@ -1,6 +1,6 @@
-package LV_1;
+package Programmers;
 
-class LV1_172928 {
+class Sparta_172928 {
     public int[] lv_172928(String[] park, String[] routes) {
         int[] answer = new int[2];
 

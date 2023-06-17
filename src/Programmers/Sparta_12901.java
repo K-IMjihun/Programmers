@@ -1,6 +1,6 @@
-package LV_1;
+package Programmers;
 
-public class LV1_12901 {
+public class Sparta_12901 {
         public String lv1_12901(int a, int b) {
             String answer = "";
             String [] arr = {"SUN","MON","TUE","WED","THU","FRI","SAT"};

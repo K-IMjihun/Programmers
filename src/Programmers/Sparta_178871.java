@@ -1,9 +1,9 @@
-package LV_1;
+package Programmers;
 
 import java.util.*;
 
 
-public class LV1_178871 {
+public class Sparta_178871 {
     public String[] lv1_178871() {
         String[] players = {"mumu", "soe", "poe", "kai", "mine"};           // 5 ~ 50000
         String[] callings = {"kai", "kai", "mine", "mine"};                 // 2 ~ 1000000

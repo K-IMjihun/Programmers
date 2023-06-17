@@ -1,9 +1,9 @@
-package LV_1;
+package Programmers;
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class LV1_176963 {
+public class Sparta_176963 {
     public int[] lv_176963(String[] args) {
         String[] name = {"may", "kein", "kain", "radi"};
         int[] yearning = {5, 10, 1, 3};

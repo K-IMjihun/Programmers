@@ -1,8 +1,8 @@
-package LV_1;
+package Programmers;
 
 import java.util.*;
 
-public class LV1_42576 {
+public class Sparta_42576 {
         public String lv1_42576(String[] participant, String[] completion) {
 
             String answer = "";

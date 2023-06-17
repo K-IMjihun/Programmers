@@ -1,6 +1,6 @@
-package LV_1;
+package Programmers;
 
-public class LV1_12930 {
+public class Sparta_12930 {
         public String lv1_12930(String s) {
             String answer = "";
             String[] str = s.split("");

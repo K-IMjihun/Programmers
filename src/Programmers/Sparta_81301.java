@@ -1,9 +1,7 @@
+package Programmers;
 import java.util.*;
-
-
-//나중에 할 것
-class Main {
-    public static void main(String[] args) {
+public class Sparta_81301 {
+    public static int sparta_81031(){
         String s = "23four5six7";
         Map<String, Integer> map = new HashMap<>();
         map.put("zero", 0);
@@ -33,6 +31,6 @@ class Main {
             }
         }
         answer = Integer.parseInt(stringAnswer);
-
+        return answer;
     }
 }
