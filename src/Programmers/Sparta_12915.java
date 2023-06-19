@@ -1,9 +1,6 @@
 package Programmers;
 
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.List;
+import java.util.*;
 
 public class Sparta_12915 {
     public static void main(String[] args) {
