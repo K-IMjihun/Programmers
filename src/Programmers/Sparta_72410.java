@@ -31,12 +31,15 @@ public class Sparta_72410 {
         }
 
         //길이가 세글자 이하라면, 세글자가 될 때 까지 마지막 문자열 ++;
-        if(answer.length()<=2)
-            while(answer.length()<3)
-                answer += answer.charAt(answer.length()-1);
+        if(answer.length()<=2) {
+            while (answer.length() < 3) {
+                answer += answer.charAt(answer.length() - 1);
 
+            }
+        }
 //        return answer;
         System.out.println(answer);
+
 
     }
 }
