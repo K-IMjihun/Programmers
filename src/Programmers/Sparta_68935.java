@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Sparta_68935 {
-    public static void main(String[] args) {
+    public static void sparta_68935() {
         int n = 45;
         int answer = 0;
         List<String> list = new ArrayList<>();

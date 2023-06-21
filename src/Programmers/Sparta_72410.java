@@ -1,7 +1,7 @@
 package Programmers;
 
 public class Sparta_72410 {
-    public static void main(String[] args) {
+    public static void sparta_72410() {
         String new_id = "asdzxcqweasdzx.fed.";
 
         String answer = new_id.toLowerCase();

@@ -1,7 +1,7 @@
 package Programmers;
 
 public class Sparta_12921 {
-    public static void main(String[] args) {
+    public static void sparta_12921() {
         int n = 10;
         int answer = 0;
 

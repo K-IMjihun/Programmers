@@ -4,7 +4,7 @@ package Programmers;
 import java.util.*;
 
 public class Sparta_42889 {
-    public static void main(String[] args) {
+    public static void sparta_42889() {
         int N = 2;
         int[] stages = {1, 1, 1, 1};
 
@@ -43,6 +43,7 @@ public class Sparta_42889 {
         // Map.Entry를 리스트로 변환하여 정렬
         List<Map.Entry<Integer, Double>> entryList = new ArrayList<>(map.entrySet());
 
+
         // 밸류값으로 내림차순 정렬
         // entryList.sort(Map.Entry.comparingByValue(Comparator.reverseOrder()));
 
@@ -50,6 +51,8 @@ public class Sparta_42889 {
         entryList.sort(Map.Entry.<Integer, Double>comparingByValue()
                 .reversed()
                 .thenComparing(Map.Entry.comparingByKey()));
+
+
 
         for (int i = 0; i < answer.length; i++) {
             answer[i] = entryList.get(i).getKey();

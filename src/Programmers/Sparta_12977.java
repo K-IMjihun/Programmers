@@ -1,7 +1,7 @@
 package Programmers;
 
 public class Sparta_12977 {
-    public static void main(String[] args) {
+    public static void sparta_12977() {
         int [] nums = {1,2,7,6,4};
         int answer = 0;
         for(int i = 0; i < nums.length-2; i++){

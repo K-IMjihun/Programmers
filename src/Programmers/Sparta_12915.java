@@ -3,7 +3,7 @@ package Programmers;
 import java.util.*;
 
 public class Sparta_12915 {
-    public static void main(String[] args) {
+    public static void sparta_12915() {
         int n = 1;
         String [] strings = {"abce", "abcd","abcb", "cdx", "asd", "abc"};
         String [] answer;

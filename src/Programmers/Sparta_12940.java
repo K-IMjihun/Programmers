@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Sparta_12940 {
     //최대공약수와 최소공배수
-    public static void main(String[] args) {
+    public static void sparta_12940() {
         int n = 3;
         int m = 12;
         int gcd = getGCD(n, m);

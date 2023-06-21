@@ -1,7 +1,7 @@
 package Programmers;
 import java.util.*;
 public class Sparta_12982 {
-    public static void main(String[] args) {
+    public static void sparta_12982() {
                 int[] d = { 2,4,5,6,7};
                 int budget = 134;
                 int answer = 0;
